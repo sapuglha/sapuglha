@@ -2,7 +2,7 @@
 
 I'm Tiago! I'm a software developer who likes to learn and play with new Android libraries.
 
-- 🔭 I’m currently working as an Android engineer at [Square](https://squareup.com)
+<!-- - 🔭 I’m currently working as an Android engineer at [](https://) -->
 - 📫 You can reach me on Twitter [@sapuglha](https://twitter.com/sapuglha)
 
 <!-- 
