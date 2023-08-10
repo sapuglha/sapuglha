@@ -4,7 +4,7 @@ I'm Tiago! I'm a software developer who likes to learn and play with new Android
 
 <!-- - 🔭 I’m currently working as an Android engineer at [](https://) -->
 - 🐘 You can reach me on Mastodon <a rel="me" href="https://androiddev.social/@sapuglha">https://androiddev.social/@sapuglha</a>
-- 🐦 You can reach me on Twitter [@sapuglha](https://twitter.com/sapuglha)
+<!-- - 🐦 You can reach me on Twitter [@sapuglha](https://twitter.com/sapuglha) -->
 
 
 <!-- 
