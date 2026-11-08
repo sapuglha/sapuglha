@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tiago! I'm a software developer who likes to learn and play with new Android libraries.
+I'm Tiago! I'm a software developer who likes to learn and play with new tech, while not neglecting established systems.
 
 <!-- - 🔭 I’m currently working as an Android engineer at [](https://) -->
 - 🐘 You can reach me on Mastodon <a rel="me" href="https://cosocial.ca/@sapuglha">https://cosocial.ca/@sapuglha</a>
